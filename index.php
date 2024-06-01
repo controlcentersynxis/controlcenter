@@ -5,6 +5,8 @@
         <link rel="icon" href="https://controlcenter-p1.synxis.com/CC/Images/favicon.ico">
         <link rel="stylesheet" href="styles.css" />
   </head>
+    <?php 
+        echo; 
   <body>
 
     <div class="LoginContainer" >
